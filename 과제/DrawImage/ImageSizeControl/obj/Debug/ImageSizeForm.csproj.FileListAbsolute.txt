@@ -1,0 +1,10 @@
+C:\Users\soobi\source\repos\DrawImage\ImageSizeControl\bin\Debug\ImageSizeControl.exe.config
+C:\Users\soobi\source\repos\DrawImage\ImageSizeControl\bin\Debug\ImageSizeControl.exe
+C:\Users\soobi\source\repos\DrawImage\ImageSizeControl\bin\Debug\ImageSizeControl.pdb
+C:\Users\soobi\source\repos\DrawImage\ImageSizeControl\obj\Debug\ImageSizeForm.csproj.AssemblyReference.cache
+C:\Users\soobi\source\repos\DrawImage\ImageSizeControl\obj\Debug\ImageSizeControl.ImageSizeControl.resources
+C:\Users\soobi\source\repos\DrawImage\ImageSizeControl\obj\Debug\ImageSizeControl.Properties.Resources.resources
+C:\Users\soobi\source\repos\DrawImage\ImageSizeControl\obj\Debug\ImageSizeForm.csproj.GenerateResource.cache
+C:\Users\soobi\source\repos\DrawImage\ImageSizeControl\obj\Debug\ImageSizeForm.csproj.CoreCompileInputs.cache
+C:\Users\soobi\source\repos\DrawImage\ImageSizeControl\obj\Debug\ImageSizeControl.exe
+C:\Users\soobi\source\repos\DrawImage\ImageSizeControl\obj\Debug\ImageSizeControl.pdb

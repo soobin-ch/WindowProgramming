@@ -1,0 +1,11 @@
+C:\Users\soobi\Downloads\PuzzleGame_revised\challengeProject\obj\Debug\challengeProject.csproj.AssemblyReference.cache
+C:\Users\soobi\Downloads\PuzzleGame_revised\challengeProject\obj\Debug\challengeProject.Properties.Resources.resources
+C:\Users\soobi\Downloads\PuzzleGame_revised\challengeProject\obj\Debug\challengeProject.PuzzleGameForm.resources
+C:\Users\soobi\Downloads\PuzzleGame_revised\challengeProject\obj\Debug\PuzzleGame.Setting.resources
+C:\Users\soobi\Downloads\PuzzleGame_revised\challengeProject\obj\Debug\challengeProject.csproj.GenerateResource.cache
+C:\Users\soobi\Downloads\PuzzleGame_revised\challengeProject\obj\Debug\challengeProject.csproj.CoreCompileInputs.cache
+C:\Users\soobi\Downloads\PuzzleGame_revised\challengeProject\bin\Debug\challengeProject.exe.config
+C:\Users\soobi\Downloads\PuzzleGame_revised\challengeProject\bin\Debug\challengeProject.exe
+C:\Users\soobi\Downloads\PuzzleGame_revised\challengeProject\bin\Debug\challengeProject.pdb
+C:\Users\soobi\Downloads\PuzzleGame_revised\challengeProject\obj\Debug\challengeProject.exe
+C:\Users\soobi\Downloads\PuzzleGame_revised\challengeProject\obj\Debug\challengeProject.pdb

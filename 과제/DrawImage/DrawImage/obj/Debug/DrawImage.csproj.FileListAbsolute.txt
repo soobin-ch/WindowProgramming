@@ -1,0 +1,10 @@
+C:\Users\soobi\source\repos\DrawImage\DrawImage\bin\Debug\DrawImage.exe.config
+C:\Users\soobi\source\repos\DrawImage\DrawImage\bin\Debug\DrawImage.exe
+C:\Users\soobi\source\repos\DrawImage\DrawImage\bin\Debug\DrawImage.pdb
+C:\Users\soobi\source\repos\DrawImage\DrawImage\obj\Debug\DrawImage.csproj.AssemblyReference.cache
+C:\Users\soobi\source\repos\DrawImage\DrawImage\obj\Debug\DrawImage.ImageForm.resources
+C:\Users\soobi\source\repos\DrawImage\DrawImage\obj\Debug\DrawImage.Properties.Resources.resources
+C:\Users\soobi\source\repos\DrawImage\DrawImage\obj\Debug\DrawImage.csproj.GenerateResource.cache
+C:\Users\soobi\source\repos\DrawImage\DrawImage\obj\Debug\DrawImage.csproj.CoreCompileInputs.cache
+C:\Users\soobi\source\repos\DrawImage\DrawImage\obj\Debug\DrawImage.exe
+C:\Users\soobi\source\repos\DrawImage\DrawImage\obj\Debug\DrawImage.pdb

@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+C:\Users\admin\source\repos\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe
+C:\Users\admin\source\repos\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.pdb
+C:\Users\admin\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Properties.Resources.resources
+C:\Users\admin\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.PuzzleGameForm.resources
+C:\Users\admin\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Setting.resources
+C:\Users\admin\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.exe
+C:\Users\admin\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.pdb

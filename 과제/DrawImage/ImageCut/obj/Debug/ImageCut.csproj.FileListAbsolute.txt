@@ -1,0 +1,10 @@
+C:\Users\soobi\source\repos\DrawImage\ImageCut\obj\Debug\ImageCut.csproj.AssemblyReference.cache
+C:\Users\soobi\source\repos\DrawImage\ImageCut\obj\Debug\ImageCut.ImageCutForm.resources
+C:\Users\soobi\source\repos\DrawImage\ImageCut\obj\Debug\ImageCut.Properties.Resources.resources
+C:\Users\soobi\source\repos\DrawImage\ImageCut\obj\Debug\ImageCut.csproj.GenerateResource.cache
+C:\Users\soobi\source\repos\DrawImage\ImageCut\obj\Debug\ImageCut.csproj.CoreCompileInputs.cache
+C:\Users\soobi\source\repos\DrawImage\ImageCut\bin\Debug\ImageCut.exe.config
+C:\Users\soobi\source\repos\DrawImage\ImageCut\bin\Debug\ImageCut.exe
+C:\Users\soobi\source\repos\DrawImage\ImageCut\bin\Debug\ImageCut.pdb
+C:\Users\soobi\source\repos\DrawImage\ImageCut\obj\Debug\ImageCut.exe
+C:\Users\soobi\source\repos\DrawImage\ImageCut\obj\Debug\ImageCut.pdb

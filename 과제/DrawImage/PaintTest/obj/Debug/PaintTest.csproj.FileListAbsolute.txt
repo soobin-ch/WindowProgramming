@@ -1,0 +1,10 @@
+C:\Users\soobi\source\repos\DrawImage\PaintTest\bin\Debug\PaintTest.exe.config
+C:\Users\soobi\source\repos\DrawImage\PaintTest\bin\Debug\PaintTest.exe
+C:\Users\soobi\source\repos\DrawImage\PaintTest\bin\Debug\PaintTest.pdb
+C:\Users\soobi\source\repos\DrawImage\PaintTest\obj\Debug\PaintTest.csproj.AssemblyReference.cache
+C:\Users\soobi\source\repos\DrawImage\PaintTest\obj\Debug\PaintTest.PaintForm.resources
+C:\Users\soobi\source\repos\DrawImage\PaintTest\obj\Debug\PaintTest.Properties.Resources.resources
+C:\Users\soobi\source\repos\DrawImage\PaintTest\obj\Debug\PaintTest.csproj.GenerateResource.cache
+C:\Users\soobi\source\repos\DrawImage\PaintTest\obj\Debug\PaintTest.csproj.CoreCompileInputs.cache
+C:\Users\soobi\source\repos\DrawImage\PaintTest\obj\Debug\PaintTest.exe
+C:\Users\soobi\source\repos\DrawImage\PaintTest\obj\Debug\PaintTest.pdb

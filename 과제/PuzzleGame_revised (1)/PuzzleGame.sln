@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuzzleGame", "PuzzleGame\PuzzleGame.csproj", "{0393583A-DC83-4CA5-A4EB-E34C843A1C7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuzzleGame_revised", "PuzzleGame_revised\PuzzleGame_revised.csproj", "{1DC87337-D593-4693-94BF-30B0454BAD7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0393583A-DC83-4CA5-A4EB-E34C843A1C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0393583A-DC83-4CA5-A4EB-E34C843A1C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0393583A-DC83-4CA5-A4EB-E34C843A1C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0393583A-DC83-4CA5-A4EB-E34C843A1C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DC87337-D593-4693-94BF-30B0454BAD7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC87337-D593-4693-94BF-30B0454BAD7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC87337-D593-4693-94BF-30B0454BAD7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC87337-D593-4693-94BF-30B0454BAD7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E60094B7-A5B7-46B9-923E-F0FEB3A7FAD3}
+	EndGlobalSection
+EndGlobal
